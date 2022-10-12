@@ -49,7 +49,7 @@ public class Drawing extends JFrame {
 	 * Create the frame.
 	 */
 	public Drawing() {
-		setTitle("Topalovi\u0107 Marko MH 75-2018");
+		setTitle("Paint App");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 700, 400);
 		contentPane = new JPanel();
