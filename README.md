@@ -1,5 +1,11 @@
 # Java Paint App
-## Implementation of a Java Swing application that allows drawing, selection, modification and deletion of two-dimensional graphic shapes:
+
+## Picture of the app
+<img src="./JavaProj.png" alt="drawing" width="800"/>
+
+---
+
+### Implementation of a Java Swing application that allows drawing, selection, modification and deletion of two-dimensional graphic shapes:
 
 ### Point 
 
@@ -21,9 +27,5 @@ Center at click point, user to enter radius length
 
 Center at the point of click, user to enter the lengths of the outer and inner radius
 
----
 
-
-## Picture of the app
-<img src="./JavaProj.png" alt="drawing" width="400"/>
 
