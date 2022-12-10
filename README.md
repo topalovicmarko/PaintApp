@@ -25,5 +25,5 @@ Center at the point of click, user to enter the lengths of the outer and inner r
 
 
 ## Picture of the app
-<img src="./assets/JavaProj.jpg" alt="drawing" width="400"/>
+<img src="./JavaProj.png" alt="drawing" width="400"/>
 
